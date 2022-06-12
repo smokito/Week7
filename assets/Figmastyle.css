@@ -1,8 +1,8 @@
- .wrapper {
+.wrapper {
     width: 100vw;
     height: 250vh;
     display: grid;
-   grid-template-columns: 50% 50%;
+    grid-template-columns: 50% 50%;
     grid-template-rows: 20% 5% 65% 10%;
     grid-template-areas: 
     "header header"
@@ -299,4 +299,5 @@ color: #817F83;
 }
 .about {
     height: 20vh;
+}
 }
